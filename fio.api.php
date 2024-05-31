@@ -31,8 +31,8 @@
  */
 class FioApi {
 
-    const URL_RESET = 'https://www.fio.cz/ib_api/rest/set-last-date/%s/%s/';
-    const URL_DATA = 'https://www.fio.cz/ib_api/rest/last/%s/transactions.json';
+    const URL_RESET = 'https://fioapi.fio.cz/v1/rest/set-last-date/%s/%s/';
+    const URL_DATA = 'https://fioapi.fio.cz/v1/rest/last/%s/transactions.json';
 
     /**
      *
