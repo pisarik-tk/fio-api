@@ -97,7 +97,7 @@ class FioApi {
      *   'ident' => id transakce, unikatni v ramci uctu, pri prevodu mezi 
      *              vlastnimi ucty se muze opakovat, tedy neni samo o sobe vhodne 
      *              jako primarni klic
-      'typ' => slovni vyjadreni transakce
+     *   'typ' => slovni vyjadreni transakce
      * )
      * 
      * @return array
